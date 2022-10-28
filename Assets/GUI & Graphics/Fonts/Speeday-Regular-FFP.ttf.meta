@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9f634690cedaa46419d8ee717bc8d410
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Speeday
+  fontNames:
+  - Speeday
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3ed587b5912ecf24c9513500aedc5b06, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

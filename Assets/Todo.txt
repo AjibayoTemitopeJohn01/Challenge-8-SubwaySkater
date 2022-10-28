@@ -1,0 +1,26 @@
+// TODO List
+
+Defaults
+^^ Camera Rotation.x = 30
+^^ Curvature = 0.001
+^^ jump speed 4.0f
+
+# Additional Stuff { before game submission }
+- Credits Menu
+- Level Hardness Select
+- Cool UI Graphics
+- Logo / Background / Theme Colors / Icon
+
+# Potential Bugs
+- Add some Jump Force
+- Adjust Slide speed 0r Slide Height
+- Adjust Camera Follow
+
+
+
+# Improving GamPlay
+- Sound FX
+- Particle FX
+- SkyBox
+- Level hardness
+- Nice UI Graphics & UI Sounds
